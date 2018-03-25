@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'NewsApp' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'Cartography'
+  pod 'Alamofire'
+  pod 'ObjectMapper'
+  pod 'Kingfisher'
+  pod 'XLPagerTabStrip'
+  pod 'NVActivityIndicatorView'
+  pod 'TableFlip'
+  pod 'ParallaxHeader'
+  pod 'BulletinBoard'
+  pod 'SnapKit' 
+  pod 'PromiseKit'
+  pod 'AlamofireImage'
+  pod 'SwiftyJSON'
+  # Pods for NewsApp
+
+end
